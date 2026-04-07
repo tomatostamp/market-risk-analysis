@@ -10,13 +10,13 @@ It computes key risk metrics including:
 * Conditional Value at Risk (CVaR / Expected Shortfall): Measures the average loss beyond the VaR threshold (tail risk)
 * Stressed Value at Risk (SVaR): Estimates risk under stressed or adverse market conditions
 
----
+
 
 ## Tech Stack
 
 * Python [pandas, numpy, yfinance (data ingestion), matplotlib (visualization)]
 
----
+
 
 ## Methodology
 
